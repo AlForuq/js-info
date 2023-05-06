@@ -1,0 +1,21 @@
+.parent {
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+}
+
+#changeBorderColor {
+  border: 3px solid red;
+}
+
+#solidBorder {
+  border: 1px solid black;
+}
+
+.text {
+  margin-top: 10px;
+  width: 200px;
+  height: 150px;
+  border: 3px solid black;
+  overflow: auto;
+}
